@@ -1,0 +1,26 @@
+{
+  "name": "ifood-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index",
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramdhei-codes/ifood-challenge.git"
+  },
+  "keywords": [],
+  "author": "Ramdhei Lopez Arcila <ramdhei2002@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramdhei-codes/ifood-challenge/issues"
+  },
+  "homepage": "https://github.com/Ramdhei-codes/ifood-challenge#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
